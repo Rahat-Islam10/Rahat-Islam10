@@ -36,23 +36,14 @@ I enjoy building **APIs, Bots, and Web Applications** while exploring new techno
 <img src="https://streak-stats.demolab.com?user=Rahat-Islam10&theme=tokyonight&hide_border=true"/>
 </p>
 
-🏆 Achievement Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rahat-Islam10&theme=matrix&no-frame=true&margin-w=15"/>
-</p>
-
 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahat-Islam10&theme=tokyo-night&hide_border=true"/>
 </p>
 
-🐍 Contribution Snake
+![Snake](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rahat-Islam10/Rahat-Islam10/output/github-contribution-grid-snake.svg"/>
-</p>
 
 👁 Visitors Counter
 
