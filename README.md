@@ -55,7 +55,7 @@ I enjoy building **APIs, Bots, and Web Applications** while exploring new techno
 <p align="left">
 
 <a href="https://facebook.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="35" width="35" />
+<img align="center" src="https://i.imgur.com/MJo3BM9.png" height="35" width="35" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://m.me/61582708907708" target="blank">
