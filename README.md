@@ -62,7 +62,7 @@ I enjoy building **APIs, Bots, and Web Applications** while exploring new techno
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="35" width="35" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://t.me/YOUR_USERNAME" target="blank">
+<a href="https://t.me/education_of_purpose" target="blank">
 <img align="center" src="https://i.imgur.com/W6GhZVa.png" height="35" width="35" />
 </a>&nbsp;&nbsp;&nbsp;
 
