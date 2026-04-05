@@ -51,13 +51,26 @@ I enjoy building **APIs, Bots, and Web Applications** while exploring new techno
 <img src="https://komarev.com/ghpvc/?username=Rahat-Islam10&label=PROFILE%20VIEWS&color=00ff99&style=for-the-badge"/>
 </p>
 
-🌐 Connect With Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-<p align="center"><a href="mailto:rahatofficialbot@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-00FF99?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://github.com/Rahat-Islam10">
-<img src="https://img.shields.io/badge/GitHub-Rahat--Islam10-00FF99?style=for-the-badge&logo=github&logoColor=white"/>
-</a></p>
+<a href="https://facebook.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="35" width="35" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://m.me/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="35" width="35" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="35" width="35" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.tiktok.com/@YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/3046/3046126.png" height="35" width="35" />
+</a>
+
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0033ff&height=140&section=footer"/>
